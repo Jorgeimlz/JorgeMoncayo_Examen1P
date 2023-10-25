@@ -14,5 +14,14 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    color: blue;
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    line-height: 30px;
+    letter-spacing: 5px;
+    text-transform: capitalize;
+    text-align: left;
+    text-indent: 30px;
 }
